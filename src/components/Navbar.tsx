@@ -21,8 +21,9 @@ const Navbar = () => {
       <div className="max-w-full mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between h-20">
           <div className="flex items-center">
-            <Link href="/" className="text-3xl font-bold text-blue-900 uppercase">
-              Elite Business
+            <img src="/logo.png" alt="" className='w-28 h-28' />
+            <Link href="/" className="text-3xl font-bold text-blue-900 uppercase -ml-7">
+              SA FASHION
             </Link>
           </div>
 
